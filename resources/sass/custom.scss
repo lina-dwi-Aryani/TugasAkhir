@@ -1,0 +1,32 @@
+/* resources/sass/custom.scss */
+
+/* Gaya khusus untuk form */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+/* Gaya khusus untuk tombol tambah wilayah */
+#add-wilayah {
+    margin-top: 1rem;
+}
+
+/* Gaya khusus untuk card */
+.card {
+    margin-top: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ccc;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
